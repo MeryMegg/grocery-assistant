@@ -1,6 +1,9 @@
 #### Grocery-assistant
 ##### ссылка на gh pages:  https://merymegg.github.io/grocery-assistant/
 
+**Версия:**
+v0.0.1
+
 **Команда:**
 - Екатерина Ромашкина
 - Мария Скосырская
